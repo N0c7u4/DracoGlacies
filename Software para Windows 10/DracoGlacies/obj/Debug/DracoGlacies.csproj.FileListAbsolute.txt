@@ -1,0 +1,38 @@
+C:\Users\MSI\Desktop\APP WINDOWS\Proyecto Alfa\DracoGlacies\bin\Debug\DracoGlacies.exe.config
+C:\Users\MSI\Desktop\APP WINDOWS\Proyecto Alfa\DracoGlacies\bin\Debug\DracoGlacies.exe
+C:\Users\MSI\Desktop\APP WINDOWS\Proyecto Alfa\DracoGlacies\bin\Debug\DracoGlacies.pdb
+C:\Users\MSI\Desktop\APP WINDOWS\Proyecto Alfa\DracoGlacies\obj\Debug\DracoGlacies.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\APP WINDOWS\Proyecto Alfa\DracoGlacies\obj\Debug\MainWindow.g.cs
+C:\Users\MSI\Desktop\APP WINDOWS\Proyecto Alfa\DracoGlacies\obj\Debug\App.g.cs
+C:\Users\MSI\Desktop\APP WINDOWS\Proyecto Alfa\DracoGlacies\obj\Debug\DracoGlacies_MarkupCompile.cache
+C:\Users\MSI\Desktop\APP WINDOWS\Proyecto Alfa\DracoGlacies\obj\Debug\DracoGlacies_MarkupCompile.lref
+C:\Users\MSI\Desktop\APP WINDOWS\Proyecto Alfa\DracoGlacies\obj\Debug\MainWindow.baml
+C:\Users\MSI\Desktop\APP WINDOWS\Proyecto Alfa\DracoGlacies\obj\Debug\DracoGlacies.g.resources
+C:\Users\MSI\Desktop\APP WINDOWS\Proyecto Alfa\DracoGlacies\obj\Debug\DracoGlacies.Properties.Resources.resources
+C:\Users\MSI\Desktop\APP WINDOWS\Proyecto Alfa\DracoGlacies\obj\Debug\DracoGlacies.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\APP WINDOWS\Proyecto Alfa\DracoGlacies\obj\Debug\DracoGlacies.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\APP WINDOWS\Proyecto Alfa\DracoGlacies\obj\Debug\DracoGlacies.exe
+C:\Users\MSI\Desktop\APP WINDOWS\Proyecto Alfa\DracoGlacies\obj\Debug\DracoGlacies.pdb
+C:\Users\MSI\Desktop\APP WINDOWS\Proyecto Alfa\DracoGlacies\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\MSI\Desktop\APP WINDOWS\Proyecto Alfa\DracoGlacies\obj\Debug\DracoGlacies.csproj.CopyComplete
+C:\Users\MSI\Desktop\APP WINDOWS\Proyecto Alfa\DracoGlacies\bin\Debug\BWCMM.dll
+C:\Users\MSI\Desktop\APP WINDOWS\Proyecto Alfa\DracoGlacies\obj\Debug\Window1.g.cs
+C:\Users\MSI\Desktop\APP WINDOWS\Proyecto Alfa\DracoGlacies\obj\Debug\Window1.baml
+D:\Steven\APP WINDOWS\ESTAION DE AIRE PARA LAPTOP\Proyecto Alfa\DracoGlacies\bin\Debug\DracoGlacies.exe.config
+D:\Steven\APP WINDOWS\ESTAION DE AIRE PARA LAPTOP\Proyecto Alfa\DracoGlacies\bin\Debug\DracoGlacies.exe
+D:\Steven\APP WINDOWS\ESTAION DE AIRE PARA LAPTOP\Proyecto Alfa\DracoGlacies\bin\Debug\DracoGlacies.pdb
+D:\Steven\APP WINDOWS\ESTAION DE AIRE PARA LAPTOP\Proyecto Alfa\DracoGlacies\obj\Debug\DracoGlacies.csproj.AssemblyReference.cache
+D:\Steven\APP WINDOWS\ESTAION DE AIRE PARA LAPTOP\Proyecto Alfa\DracoGlacies\obj\Debug\MainWindow.g.cs
+D:\Steven\APP WINDOWS\ESTAION DE AIRE PARA LAPTOP\Proyecto Alfa\DracoGlacies\obj\Debug\Window1.g.cs
+D:\Steven\APP WINDOWS\ESTAION DE AIRE PARA LAPTOP\Proyecto Alfa\DracoGlacies\obj\Debug\App.g.cs
+D:\Steven\APP WINDOWS\ESTAION DE AIRE PARA LAPTOP\Proyecto Alfa\DracoGlacies\obj\Debug\DracoGlacies_MarkupCompile.cache
+D:\Steven\APP WINDOWS\ESTAION DE AIRE PARA LAPTOP\Proyecto Alfa\DracoGlacies\obj\Debug\DracoGlacies_MarkupCompile.lref
+D:\Steven\APP WINDOWS\ESTAION DE AIRE PARA LAPTOP\Proyecto Alfa\DracoGlacies\obj\Debug\MainWindow.baml
+D:\Steven\APP WINDOWS\ESTAION DE AIRE PARA LAPTOP\Proyecto Alfa\DracoGlacies\obj\Debug\Window1.baml
+D:\Steven\APP WINDOWS\ESTAION DE AIRE PARA LAPTOP\Proyecto Alfa\DracoGlacies\obj\Debug\DracoGlacies.g.resources
+D:\Steven\APP WINDOWS\ESTAION DE AIRE PARA LAPTOP\Proyecto Alfa\DracoGlacies\obj\Debug\DracoGlacies.Properties.Resources.resources
+D:\Steven\APP WINDOWS\ESTAION DE AIRE PARA LAPTOP\Proyecto Alfa\DracoGlacies\obj\Debug\DracoGlacies.csproj.GenerateResource.cache
+D:\Steven\APP WINDOWS\ESTAION DE AIRE PARA LAPTOP\Proyecto Alfa\DracoGlacies\obj\Debug\DracoGlacies.csproj.CoreCompileInputs.cache
+D:\Steven\APP WINDOWS\ESTAION DE AIRE PARA LAPTOP\Proyecto Alfa\DracoGlacies\obj\Debug\DracoGlacies.csproj.CopyComplete
+D:\Steven\APP WINDOWS\ESTAION DE AIRE PARA LAPTOP\Proyecto Alfa\DracoGlacies\obj\Debug\DracoGlacies.exe
+D:\Steven\APP WINDOWS\ESTAION DE AIRE PARA LAPTOP\Proyecto Alfa\DracoGlacies\obj\Debug\DracoGlacies.pdb

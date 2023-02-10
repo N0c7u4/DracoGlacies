@@ -1,0 +1,23 @@
+﻿<Window x:Class="DracoGlacies.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DracoGlacies"
+        mc:Ignorable="d"
+        Title="DracoGlacies" Height="672" Width="662" Visibility="Visible" Foreground="{x:Null}" Icon="Mesa de trabajo 2mdpi.png" Cursor="Arrow" Background="#FF1C1C1C" WindowStartupLocation="CenterScreen" Opacity="0.995" Topmost="True" WindowStyle="ThreeDBorderWindow" ResizeMode="CanMinimize">
+
+
+
+    <Grid Margin="0,0,0,1">
+        <Grid.Background>
+            <ImageBrush ImageSource="Mesa de trabajo 2mdpi.png" Stretch="Uniform"/>
+        </Grid.Background>
+        <Button x:Name="Automatico" Content="Automatico" HorizontalAlignment="Left" Margin="448,535,0,0" VerticalAlignment="Top" Width="183" Height="50" FontSize="22" FontWeight="Bold" FontFamily="Matura MT Script Capitals" ClickMode="Press" Click="auto"/>
+        <Button x:Name="Personalizado" Content="Personalizado" HorizontalAlignment="Left" Margin="16,535,0,0" VerticalAlignment="Top" Width="184" Height="50" FontSize="22" FontWeight="Bold" FontFamily="Matura MT Script Capitals" ClickMode="Press" Click="per" />
+        <TextBlock x:Name="CPU_T" HorizontalAlignment="Left" Margin="10,12,0,0" TextWrapping="Wrap" Text="CPU ºC =   0" VerticalAlignment="Top" Height="26" Width="139" Foreground="White" FontFamily="Arial" FontSize="22" FontWeight="Bold"/>
+        <TextBlock x:Name="GPU_T" HorizontalAlignment="Left" Margin="503,11,0,0" TextWrapping="Wrap" Text="GPU ºC =   0" VerticalAlignment="Top" Height="26" Width="139" Foreground="White" FontFamily="Arial" FontSize="22" FontWeight="Bold"/>
+        <TextBlock x:Name="TargCPU" HorizontalAlignment="Left" Height="33" Margin="12,599,0,0" TextWrapping="Wrap" Text="Tarjeta grafica" VerticalAlignment="Top" Width="628" Foreground="White" FontSize="22" FontFamily="Papyrus" FontWeight="Bold" Background="#FF1C1C1C"/>
+        <Button x:Name="on_off" Content="Off" HorizontalAlignment="Left" Margin="233,535,0,0" VerticalAlignment="Top" Width="183" Height="50" FontSize="22" FontWeight="Bold" FontFamily="Matura MT Script Capitals" ClickMode="Press" Click="onoff"/>
+    </Grid>
+</Window>

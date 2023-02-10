@@ -1,0 +1,10 @@
+{
+  "attachmentFolderPath": "img",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "es-419",
+    "en-US"
+  ]
+}
