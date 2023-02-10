@@ -15,7 +15,7 @@ Ventiladores (Fan) : `12 V` / `700 mA` / `5200 RPM` Cada uno
 
 ![](img/20230210_145257.jpg)
 
-La PCB de control de los ventiladores su PCB y componentes se pueden observar en la carpeta de `Proteus PDB`  ya que ahí se aloja el proyecto y para abrirlo se es necesario el software de Proteus
+La PCB de control de los ventiladores su PCB y componentes se pueden observar en la carpeta de `Proteus PCB`  ya que ahí se aloja el proyecto y para abrirlo se es necesario el software de Proteus
 
 # Firmware
 
