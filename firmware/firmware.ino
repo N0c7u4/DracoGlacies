@@ -1,8 +1,8 @@
 /**
 *  @Autor : St3v3n-4n4
 *  @Modificacion : 08-02-2023
-*  @commit : Codigo de arduino micro para el ejecutable en windows 10
-*  @Instalador :  
+*  @commit : Codigo de arduino micro para el ejecutable en windows 10 y script de linux
+*  @Instalador de windows 10 : https://github.com/St3v3n-4n4/DracoGlacies/blob/main/Instalador%20Windows%2010/DracoGlacies.exe 
 **/
 
 
@@ -13,7 +13,7 @@ long t=0,tiempo=0;
 void setup() {
   Serial.begin(9600);
   pinMode(6,OUTPUT);
-  digitalWrite(6,1);
+  digitalWrite(6,0);
   
 }
 
@@ -29,6 +29,7 @@ void loop() {
   {
       t=tiempo;
       dato=Serial.readString();
+      
       // dato=1210717  ... Password de inicio
       if(dato.toInt()==1210717 && conexion==false)
       {
