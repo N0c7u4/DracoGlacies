@@ -7,7 +7,9 @@ Proyecto de una estación de aire para portátiles
 # Hardware
 
 Microcontrolador : `Arduino Micro` 
+
 Fuente de Alimentación  :  `12V` / `2A` 
+
 Ventiladores (Fan) : `12 V` / `700 mA` / `5200 RPM` Cada uno
 
 
