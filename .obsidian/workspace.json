@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6d796a445f4492e0",
@@ -146,7 +147,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "afcafa4931d4c9f2",
+  "active": "8d30f54c7d0167cc",
   "lastOpenFiles": [
     "Proteus PCB/PCB/PCB.pdf",
     "README.md",

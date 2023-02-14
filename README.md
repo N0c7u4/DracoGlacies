@@ -35,7 +35,7 @@ El software se encarga de obtener la temperatura del CPU y GPU de la laptop como
 
 También cuenta con una fila de barras para configurar el porcentaje de velocidad de los ventiladores en función de la temperatura que se mida en la laptop.
 
-![](img/Pasted%20image%2020230210153939.png)
+![](img/Pasted%20image%2020230214122503.png)
 
 ### Instalación 
 
