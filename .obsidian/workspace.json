@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e9229d9ef19d828d",
+        "id": "3f62844bf048062c",
         "type": "tabs",
         "children": [
           {
-            "id": "afcafa4931d4c9f2",
+            "id": "844e65c73705e4a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6d796a445f4492e0",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,10 +138,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8d30f54c7d0167cc",
+  "active": "844e65c73705e4a3",
   "lastOpenFiles": [
-    "Proteus PCB/PCB/PCB.pdf",
     "README.md",
+    "Proteus PCB/PCB/PCB.pdf",
     "20230210_145209.jpg"
   ]
 }
