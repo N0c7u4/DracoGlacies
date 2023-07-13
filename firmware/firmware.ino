@@ -14,7 +14,12 @@ void setup() {
   Serial.begin(9600);
   pinMode(6,OUTPUT);
   digitalWrite(6,0);
-  
+  pinMode(7,INPUT);
+  while(digitalRead(7)==0)
+  {
+    analogWrite(3,254);
+    digitalWrite(6,1);       
+  }
 }
 
 void loop() {
